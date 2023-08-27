@@ -13,8 +13,9 @@
 
 - 🔭 I’m searching for **a job in data science / data analytics**
 - 👩‍💻 Bootcamp Batch 1721 Data Science @ Le wagon
-- Pronouns: she/her
 - 🌱 I’m currently learning **more in the field of data science**
+  
+- Pronouns: she/her
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
