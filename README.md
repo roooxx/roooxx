@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Roxana</h1>
 <h3 align="center">A passionate data explorer from Germany</h3>
 
-- 🔭 I’m searching for **a job in data science / data analytics**
+- 🔭 I have **a job in data analytics**
 - 👩‍💻 Bootcamp Batch 1721 Data Science @ Le wagon
-- 🌱 I’m currently learning **more in the field of data science**
+- 🌱 I’m currently learning **more in the field of data analytics / data science**
   
 - Pronouns: she/her
 
