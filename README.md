@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Roxana</h1>
 <h3 align="center">A passionate data explorer from Germany</h3>
 
-- 🔭 I am a ** data analyist**
+- 🔭 I am a **data analyist**
 - 👩‍💻 Bootcamp Batch 1721 Data Science @ Le wagon
 - 🌱 I’m currently learning **more in the field of data analytics / data science**
   
